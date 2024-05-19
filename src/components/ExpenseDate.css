@@ -1,0 +1,14 @@
+.day {
+  display: inline;
+  height: 30%;
+  width: 30%;
+  margin-right: 3%;
+}
+.mon {
+  display: inline;
+  height: 30%;
+  width: 40%;
+}
+.yr {
+  height: 30%;
+}
